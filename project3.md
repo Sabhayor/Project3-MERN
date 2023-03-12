@@ -58,6 +58,13 @@
 - `DB = 'mongodb+srv://<username>:<password>@<network-address>/<dbname>?retryWrites=true&w=majority'`
 ![DB Connection String](images/DB_connection_string.jpg)
 
+### Post request
+![Post Request](images/post_request2.jpg)
+
+### Get request
+![Get Request](images/get_request.jpg)
+
+
 
 
 
@@ -78,6 +85,23 @@
 [What is RESTful API?](https://aws.amazon.com/what-is/restful-api/)
 [Basic Syntax and Properties of CSS](https://www.w3schools.com/css/css_intro.asp)
 
+
+### To Clean out ALL vim Swap Files in a Directory:
+`find . -type f -name "*.sw[klmnop]" -delete`
+
+### To update Node using APT
+- First, check your current version of Node by running the following command: node -v.
+- Then run this command to install the latest version of Node: sudo apt-get install nodejs.
+- And finally verify that your update is complete by rechecking your Node version: node -v.
+
+[Percent encoding for password containing special characters](https://zencoder.support.brightcove.com/general-information/special-characters-usernames-and-passwords.html)
+
+
+[How to Get Started with MERN Stack](https://linuxhint.com/get-started-with-mern-stack/#:~:text=To%20get%20started%20with%20the,js%20application.)
+
+
+[Easiest way to setup a MERN Stack application
+](https://blog.devgenius.io/how-to-get-started-with-the-mern-stack-the-easy-way-b9758fe45956)
 
 
 
