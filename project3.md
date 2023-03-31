@@ -64,6 +64,14 @@
 ### Get request
 ![Get Request](images/get_request.jpg)
 
+## Step 2: Frontend Creation
+
+### React App
+
+![To-Do App](images/To-Do_App.jpg)
+
+
+
 
 
 
@@ -102,6 +110,9 @@
 
 [Easiest way to setup a MERN Stack application
 ](https://blog.devgenius.io/how-to-get-started-with-the-mern-stack-the-easy-way-b9758fe45956)
+
+
+[Bash Commands to Manage Directories and Files](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/bash-commands-to-manage-directories-files/#:~:text=To%20delete%20(i.e.%20remove)%20a,%2Dr%20directory%2Dname%20)
 
 
 
